@@ -1,9 +1,9 @@
-openai
+openai>=1.86.0,<2.0.0
 pypdf
-langchain
-langchain-community
-langchain-openai
-langchain-text-splitters
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-openai==0.3.27
+langchain-text-splitters==0.3.11
 chromadb
 python-dotenv
 pytest
