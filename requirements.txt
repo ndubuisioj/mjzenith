@@ -1,7 +1,9 @@
-text
 openai
 pypdf
 langchain
 langchain-community
+langchain-openai
+langchain-text-splitters
 chromadb
 python-dotenv
+pytest
